@@ -4,5 +4,5 @@ function upperCaseCustomerName(){
 }
 function setBestCustomer(){
 }
-function setBestCustomer(){
+function overwriteBestCustomer(){
 }
