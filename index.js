@@ -1,9 +1,9 @@
 var customerName = "bob"
+const bestCustomer = "not Bob"
 
-function upperCaseCustomerName(){
+function upperCaseCustomerName () {
+  return customerName = customerName.toUpperCase();
 }
-function setBestCustomer(){
-}
-function overwriteBestCustomer(){
-  bestCustomer = ""
+function upperCaseCustomerName () {
+  return customerName = customerName.toUpperCase();
 }
