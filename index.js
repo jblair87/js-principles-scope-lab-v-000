@@ -8,7 +8,7 @@ function setBestCustomer () {
   return bestCustomer = "not bob";
 }
 function overwriteBestCustome () {
-  let bestCustomer = "maybe bob";
+  return bestCustomer = "maybe bob";
 }
 function overwriteBestCustome () {
   let bestCustomer = "maybe bob";
