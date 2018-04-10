@@ -1,3 +1,5 @@
 var customerName = "bob"
 
-function
+function upperCaseCustomerName(){
+  
+}
