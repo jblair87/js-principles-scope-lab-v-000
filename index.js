@@ -7,6 +7,6 @@ function upperCaseCustomerName () {
 function setBestCustomer () {
   return bestCustomer;
 }
-function upperCaseCustomerName () {
+function overwriteBestCustome () {
   return customerName = customerName.toUpperCase();
 }
