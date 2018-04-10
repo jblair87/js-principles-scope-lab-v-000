@@ -8,5 +8,5 @@ function setBestCustomer () {
   return bestCustomer;
 }
 function overwriteBestCustome () {
-  return customerName = customerName.toUpperCase();
+  let bestCustomer = 
 }
